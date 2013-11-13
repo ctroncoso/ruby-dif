@@ -1,6 +1,10 @@
 # Dif
 
-TODO: Write a gem description
+Dif provides a simple method to READ a dif (Data Interchange File Format),
+and convert to a standard CSV file.
+A WRITE module will follow in further versions, if there is any interest, 
+but as of now, being diff a legacy file format, the only use I've foud is 
+to read from them.
 
 ## Installation
 
